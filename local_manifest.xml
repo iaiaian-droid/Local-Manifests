@@ -2,7 +2,7 @@
 <manifest>
 
    <remote name="hsx02"
-        fetch="https://github.com/hsx02"/>
+           fetch="https://github.com/hsx02"/>
    <remote name="mi"
            fetch="https://github.com/mi-sdm439"/>
 
